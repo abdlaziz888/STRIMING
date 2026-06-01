@@ -1,4 +1,88 @@
 #EXTM3U
+#EXTINF:-1 group-title="VIP2 beIN SPORTS HD",biIN SPORTS 1 HD
+http://starshare.net:80/live/Suryaaa/SURYAAAA/652310.ts
+#EXTINF:-1 group-title="VIP2 beIN SPORTS HD",biIN SPORTS 2 HD
+http://starshare.net:80/live/Suryaaa/SURYAAAA/652311.ts
+#EXTINF:-1 group-title="VIP2 beIN SPORTS HD",biIN SPORTS 3 HD
+http://starshare.net:80/live/Suryaaa/SURYAAAA/652312.ts
+#EXTINF:-1 group-title="VIP2 beIN SPORTS HD",biIN SPORTS 4 HD
+http://starshare.net:80/live/Suryaaa/SURYAAAA/652313.ts
+#EXTINF:-1 group-title="VIP2 beIN SPORTS HD",biIN SPORTS 5 HD
+http://starshare.net:80/live/Suryaaa/SURYAAAA/652314.ts
+#EXTINF:-1 group-title="VIP2 beIN SPORTS HD",biIN SPORTS 6 HD
+http://starshare.net:80/live/Suryaaa/SURYAAAA/652315.ts
+#EXTINF:-1 group-title="VIP2 beIN SPORTS HD",biIN SPORTS 7 HD
+http://starshare.net:80/live/Suryaaa/SURYAAAA/652316.ts
+#EXTINF:-1 group-title="VIP2 beIN SPORTS HD",biIN SPORTS 8 HD
+http://starshare.net:80/live/Suryaaa/SURYAAAA/652340.ts
+#EXTINF:-1 group-title="VIP2 beIN SPORTS HD",biIN SPORTS 9 HD
+http://starshare.net:80/live/Suryaaa/SURYAAAA/652318.ts
+
+
+#EXTINF:-1 group-title="VIP2 beIN SPORTS FHD",biIN SPORTS NEWS FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1294773&extension=ts&play_token=W8OibZx1fu
+#EXTINF:-1 group-title="VIP2 beIN SPORTS FHD",biIN SPORTS Global FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1294772&extension=ts&play_token=Gkj6hviX7A
+#EXTINF:-1 group-title="VIP2 beIN SPORTS FHD",biIN SPORTS MAX 1 FHD MN
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2076984&extension=ts&play_token=jXqGtcDUeS
+#EXTINF:-1 group-title="VIP2 beIN SPORTS FHD",biIN SPORTS MAX 2 FHD MN
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2076983&extension=ts&play_token=bl9kXDiLBU
+#EXTINF:-1 group-title="VIP2 beIN SPORTS FHD",biIN SPORTS 1 FHD+
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836268&extension=ts&play_token=ZSiwB6wfZ4
+#EXTINF:-1 group-title="VIP2 beIN SPORTS FHD",biIN SPORTS 2 FHD+
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836267&extension=ts&play_token=y49H9XSjxf
+#EXTINF:-1 group-title="VIP2 beIN SPORTS FHD",biIN SPORTS 3 FHD+
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836266&extension=ts&play_token=k3NPYsPZZp
+#EXTINF:-1 group-title="VIP2 beIN SPORTS FHD",biIN SPORTS 4 FHD+
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836265&extension=ts&play_token=hndpjYuOJh
+#EXTINF:-1 group-title="VIP2 beIN SPORTS FHD",biIN SPORTS 5 FHD+
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836264&extension=ts&play_token=zxjeAMzVsh
+#EXTINF:-1 group-title="VIP2 beIN SPORTS FHD",biIN SPORTS 6 FHD+
+
+#EXTINF:-1 group-title="VIP2 beIN SPORTS FHD",biIN SPORTS 7 FHD+
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836262&extension=ts&play_token=HJAFOq5d9X
+#EXTINF:-1 group-title="VIP2 beIN SPORTS FHD",biIN SPORTS 8 FHD+
+
+#EXTINF:-1 group-title="VIP2 beIN SPORTS FHD",biIN SPORTS 9 FHD+
+
+
+
+#EXTINF:-1 group-title="VIP2 ALWAN SPORTS FHD",ALWAN SPORTS 1 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859098&extension=ts&play_token=VV4VatjODO
+#EXTINF:-1 group-title="VIP2 ALWAN SPORTS FHD",ALWAN SPORTS 2 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859097&extension=ts&play_token=CHxNtgyXNq
+#EXTINF:-1 group-title="VIP2 ALWAN SPORTS FHD",ALWAN SPORTS 3 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859096&extension=ts&play_token=W8RxcHlt4I
+#EXTINF:-1 group-title="VIP2 ALWAN SPORTS FHD",ALWAN SPORTS 4 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859095&extension=ts&play_token=xQAYTf42yE
+#EXTINF:-1 group-title="VIP2 ALWAN SPORTS FHD",ALWAN SPORTS 5 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859094&extension=ts&play_token=sukL48ONMp
+#EXTINF:-1 group-title="VIP2 ALWAN SPORTS FHD",ALWAN SPORTS 6 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859093&extension=ts&play_token=kP1zdtMH31
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="         ",
+#EXTINF:-1 group-title="         ",
+#EXTINF:-1 group-title="         ",
+#EXTINF:-1 group-title="         ",
+#EXTINF:-1 group-title="         ",
+#EXTINF:-1 group-title="         ",
+#EXTINF:-1 group-title="         ",
+#EXTINF:-1 group-title="         ",
+#EXTINF:-1 group-title="         ",
+#EXTINF:-1 group-title="         ",
+#EXTINF:-1 group-title="         ",
+#EXTINF:-1 group-title="         ",
+#EXTINF:-1 group-title="         ",
+#EXTINF:-1 group-title="         ",
+#EXTINF:-1 group-title="         ",
+
+
 #EXTINF:-1,SPORTS
 #EXTINF:-1,Saudia Quran HD
 https://www.elahmad.org/tv/m3u8/online_live_14_tv.m3u8?id=qoran_tv&t=111111111
@@ -6,73 +90,6 @@ https://www.elahmad.org/tv/m3u8/online_live_14_tv.m3u8?id=qoran_tv&t=111111111
 https://www.elahmad.org/tv/m3u8/online_live_14_tv.m3u8?id=sunna_tv&t=111111111
 #EXTINF:-1,biIN BBC EARTH FHD
 http://starshare.net:80/live/Suryaaa/SURYAAAA/274211.ts
-
-#EXTINF:-1,biIN SPORTS الإخبارية FHD
-https://youtu.be/2lJZPT6OljI
-#EXTINF:-1,biIN SPORTS Global FHD
-https://youtu.be/yBcrrpetg4Y
-#EXTINF:-1,biIN SPORTS MAX 1 FHD
-
-#EXTINF:-1,biIN SPORTS MAX 1 FHD MN
-#EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085199&extension=ts&play_token=MVmWw0Wd3G
-#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085193&extension=ts&play_token=qaynQBB35W
-#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085187&extension=ts&play_token=0TbMm23m3B
-#EXTINF:-1,biIN SPORTS MAX 2 FHD
-
-#EXTINF:-1,biIN SPORTS MAX 2 FHD MN
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2076983&extension=ts&play_token=bl9kXDiLBU
-#EXTINF:-1,biIN SPORTS 1 FHD
-http://starshare.net:80/live/Suryaaa/SURYAAAA/652310.ts
-#EXTINF:-1,biIN SPORTS 1 FHD+
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836268&extension=ts&play_token=ZSiwB6wfZ4
-#EXTINF:-1,biIN SPORTS 2 FHD
-http://starshare.net:80/live/Suryaaa/SURYAAAA/652311.ts
-#EXTINF:-1,biIN SPORTS 2 FHD+
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836267&extension=ts&play_token=y49H9XSjxf
-#EXTINF:-1,biIN SPORTS 3 FHD
-http://starshare.net:80/live/Suryaaa/SURYAAAA/652312.ts
-#EXTINF:-1,biIN SPORTS 3 FHD+
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836266&extension=ts&play_token=k3NPYsPZZp
-#EXTINF:-1,biIN SPORTS 4 FHD
-http://starshare.net:80/live/Suryaaa/SURYAAAA/652313.ts
-#EXTINF:-1,biIN SPORTS 4 FHD+
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836265&extension=ts&play_token=hndpjYuOJh
-#EXTINF:-1,biIN SPORTS 5 FHD
-http://starshare.net:80/live/Suryaaa/SURYAAAA/652314.ts
-#EXTINF:-1,biIN SPORTS 5 FHD+
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836264&extension=ts&play_token=zxjeAMzVsh
-#EXTINF:-1,biIN SPORTS 6 FHD
-http://starshare.net:80/live/Suryaaa/SURYAAAA/652315.ts
-#EXTINF:-1,biIN SPORTS 6 FHD+
-
-#EXTINF:-1,biIN SPORTS 7 FHD
-http://starshare.net:80/live/Suryaaa/SURYAAAA/652316.ts
-#EXTINF:-1,biIN SPORTS 7 FHD+
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836262&extension=ts&play_token=HJAFOq5d9X
-#EXTINF:-1,biIN SPORTS 8 FHD
-http://starshare.net:80/live/Suryaaa/SURYAAAA/652340.ts
-#EXTINF:-1,biIN SPORTS 8 FHD+
-
-#EXTINF:-1,biIN SPORTS 9 FHD
-http://starshare.net:80/live/Suryaaa/SURYAAAA/652318.ts
-#EXTINF:-1,biIN SPORTS 9 FHD+
-
-#EXTINF:-1,ALWAN SPORTS 1
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859098&extension=ts&play_token=VV4VatjODO
-#EXTINF:-1,ALWAN SPORTS 2
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859097&extension=ts&play_token=CHxNtgyXNq
-#EXTINF:-1,ALWAN SPORTS 3
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859096&extension=ts&play_token=W8RxcHlt4I
-#EXTINF:-1,ALWAN SPORTS 4
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859095&extension=ts&play_token=xQAYTf42yE
-#EXTINF:-1,ALWAN SPORTS 5 
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859094&extension=ts&play_token=sukL48ONMp
-#EXTINF:-1,ALWAN SPORTS 6
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859093&extension=ts&play_token=kP1zdtMH31
 
 #EXTINF:-1,KSA SPORTS 1 FHD
 http://starshare.net:80/live/Suryaaa/SURYAAAA/4654.ts
@@ -164,22 +181,3 @@ http://170.244.209.30:8000/play/a1fz/index.m3u8
 #EXTINF:-1,biIN SPORTS 1 FHD
 #EXTINF:-1,biIN SPORTS 1 FHD
 #EXTINF:-1,biIN SPORTS 1 FHD
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
