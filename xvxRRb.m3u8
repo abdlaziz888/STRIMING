@@ -14,7 +14,12 @@ https://youtu.be/yBcrrpetg4Y
 #EXTINF:-1,biIN SPORTS MAX 1 FHD
 
 #EXTINF:-1,biIN SPORTS MAX 1 FHD MN
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2076984&extension=ts&play_token=jXqGtcDUeS
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085199&extension=ts&play_token=MVmWw0Wd3G
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085193&extension=ts&play_token=qaynQBB35W
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085187&extension=ts&play_token=0TbMm23m3B
 #EXTINF:-1,biIN SPORTS MAX 2 FHD
 
 #EXTINF:-1,biIN SPORTS MAX 2 FHD MN
