@@ -6,6 +6,7 @@ https://www.elahmad.org/tv/m3u8/online_live_14_tv.m3u8?id=qoran_tv&t=111111111
 https://www.elahmad.org/tv/m3u8/online_live_14_tv.m3u8?id=sunna_tv&t=111111111
 #EXTINF:-1,biIN BBC EARTH FHD
 http://starshare.net:80/live/Suryaaa/SURYAAAA/274211.ts
+
 #EXTINF:-1,biIN SPORTS الإخبارية FHD
 https://youtu.be/2lJZPT6OljI
 #EXTINF:-1,biIN SPORTS Global FHD
@@ -55,17 +56,17 @@ http://starshare.net:80/live/Suryaaa/SURYAAAA/652318.ts
 #EXTINF:-1,biIN SPORTS 9 FHD+
 
 #EXTINF:-1,ALWAN SPORTS 1
-
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859098&extension=ts&play_token=VV4VatjODO
 #EXTINF:-1,ALWAN SPORTS 2
-
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859097&extension=ts&play_token=CHxNtgyXNq
 #EXTINF:-1,ALWAN SPORTS 3
-
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859096&extension=ts&play_token=W8RxcHlt4I
 #EXTINF:-1,ALWAN SPORTS 4
-
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859095&extension=ts&play_token=xQAYTf42yE
 #EXTINF:-1,ALWAN SPORTS 5 
-
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859094&extension=ts&play_token=sukL48ONMp
 #EXTINF:-1,ALWAN SPORTS 6
-
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859093&extension=ts&play_token=kP1zdtMH31
 
 #EXTINF:-1,KSA SPORTS 1 FHD
 http://starshare.net:80/live/Suryaaa/SURYAAAA/4654.ts
