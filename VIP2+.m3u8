@@ -40,9 +40,9 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411367&exten
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411366&extension=ts&play_token=fWVW3UwtOY
 
 #EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS NEWS FHD
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1294773&extension=ts&play_token=W8OibZx1fu
+https://connect-live.bein.com/besmenasportsnews/index.mpd?hdnts=data=env=beinmena-production,customerID=0,clientID=256,jwt=eyJhbGciOiJIUzI1NiJ9.eyJpZF9jaGFubmVsIjo3NSwiYXBpcCI6IjEwNS4xMDUuMjQ3LjIiLCJpZF9pZGVudGl0eSI6MCwiaWRfZGV2aWNlIjoib3BlbmFwaSIsImlkX2N1c3RvbWVyIjowLCJpZF9zdHJlYW0iOiI4MTQzNTc2Yi1jMDg2LTQ0MDUtODdkNC1mYzkwNzE2NjZmMzEifQ.5cWTryaX00lqrLl7HakMxd7NBAZdsXpUA1t-7kcHF9w~st=1780387137~exp=1780394337~acl=/besmenasportsnews/*~hmac=73993bf2fe4a36bbb1b6cc35c358049c0e501978701e006e78fa185e85adce8a&?idChannel=75&playerName=bitmovin-web&playerVersion=10.0&checksum=svV61Z364Lxe99%2FmzpzvMMST1Q1dUGVL7zNM2cEfqFU%3D
 #EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS Global FHD
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1294772&extension=ts&play_token=Gkj6hviX7A
+https://connect-live.bein.com/besmenasports/index.mpd?hdnts=data=env=beinmena-production,customerID=0,clientID=256,jwt=eyJhbGciOiJIUzI1NiJ9.eyJpZF9jaGFubmVsIjo3NCwiYXBpcCI6IjEwNS4xMDUuMjQ3LjIiLCJpZF9pZGVudGl0eSI6MCwiaWRfZGV2aWNlIjoib3BlbmFwaSIsImlkX2N1c3RvbWVyIjowLCJpZF9zdHJlYW0iOiI1ODhlYzY5ZC0yYmJkLTRmNjktYTZhNC01MDZmNDhhYTRhZGIifQ.UKP-0Q4K8tNtZPKdw2neL-mxXe7rrHuRZu1jQC0ypyY~st=1780387754~exp=1780394954~acl=/besmenasports/*~hmac=3c96c733b31ad2eea5f928d767950f929cdffa7b28ddd21526c503cf099b8d14&?idChannel=74&playerName=bitmovin-web&playerVersion=10.0&checksum=IxdUGgtzleC%2BdcaNMmZeOClGauYnuJdsKg5uOwtm3JE%3D
 #EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS MAX 1 FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085199&extension=ts&play_token=FhXCuVZHk2
 #EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS MAX 2 FHD
@@ -201,8 +201,6 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765953&exten
 #EXTINF:-1 group-title="MBC ROTANA",mbc anakeed HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1543652&extension=ts&play_token=yyITZh7OZh
 
-
-
 #EXTINF:-1 group-title="ARABE SPORTS",KSA SPORTS 1 FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079507&extension=ts&play_token=zioeF83Rhz
 #EXTINF:-1 group-title="ARABE SPORTS",KSA SPORTS 2 FHD
@@ -224,10 +222,121 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=591588&extens
 #EXTINF:-1 group-title="ARABE SPORTS",ALKASS SPORTS 5 FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=591587&extension=ts&play_token=KI30CaQw9D
 #EXTINF:-1 group-title="ARABE SPORTS",ALKASS SPORTS 6 FHD
-
 #EXTINF:-1 group-title="ARABE SPORTS",ALKASS SPORTS 7 FHD
-
 #EXTINF:-1 group-title="ARABE SPORTS",ALKASS SPORTS 8 FHD
+
+#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 1 FHD FM
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077615&extension=ts&play_token=m0iNidH3dN
+#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 2 FHD FM
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077614&extension=ts&play_token=mwLrsO48oP
+#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 1 HD FM
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077609&extension=ts&play_token=98tl2fRAkh
+#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 2 HD FM
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077608&extension=ts&play_token=unvcurb7Ua
+#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 1 SD FM
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077603&extension=ts&play_token=TntaDs6g4S
+#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 2 SD FM
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077602&extension=ts&play_token=rC3o4PMzQN
+
+#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 1 FHD G
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085728&extension=ts&play_token=Qaat3a2wkQ
+#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 2 FHD G
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085725&extension=ts&play_token=8N2CMcQtMr
+#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 1 HD G
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085727&extension=ts&play_token=eLYWYTPaI0
+#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 2 HD G
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085724&extension=ts&play_token=HaVWr4zXuZ
+#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 1 SD G
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085726&extension=ts&play_token=mtWLVqsnaW
+#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 2 SD G
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085723&extension=ts&play_token=ralkTMeuK4
+
+#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 1 FHD MN
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2076984&extension=ts&play_token=v6FEBUuDJs
+#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 2 FHD MN
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2076983&extension=ts&play_token=GRHPHMR56n
+#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 1 HD MN
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2076972&extension=ts&play_token=BsIZ2qu2xT
+#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 2 HD MN
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2076971&extension=ts&play_token=Qux8cyySpr
+#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 1 SD MN
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2076966&extension=ts&play_token=1JR5utcyti
+#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 2 SD MN
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2076965&extension=ts&play_token=VahilcdezC
+
+#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 1 FHD BE
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085199&extension=ts&play_token=81tX5u5ZFm
+#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 2 FHD BE
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085198&extension=ts&play_token=rvPlJslJut
+#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 1 HD BE
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085193&extension=ts&play_token=asTHmT97wy
+#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 2 HD BE
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085192&extension=ts&play_token=EQWGxpl6B3
+#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 1 SD BE
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085187&extension=ts&play_token=bKn1wClL9s
+#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 2 SD BE
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085186&extension=ts&play_token=Q9aDqPXQFW
+
+#EXTINF:-1 group-title="beIN SPORTS TOD",beIN SPORTS TOD 4K
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081913&extension=ts&play_token=gtGHVJrf9C
+#EXTINF:-1 group-title="beIN SPORTS TOD",beIN SPORTS TOD 1
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081912&extension=ts&play_token=WdQhE0NuT5
+#EXTINF:-1 group-title="beIN SPORTS TOD",beIN SPORTS TOD 2
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081911&extension=ts&play_token=Pmwlacq5M1
+#EXTINF:-1 group-title="beIN SPORTS TOD",beIN SPORTS TOD 3
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081910&extension=ts&play_token=WBa9Ihjr3o
+#EXTINF:-1 group-title="beIN SPORTS TOD",beIN SPORTS TOD 4
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081909&extension=ts&play_token=duFjxexftS
+#EXTINF:-1 group-title="beIN SPORTS TOD",beIN SPORTS TOD 5
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081908&extension=ts&play_token=rt84D7q5cc
+#EXTINF:-1 group-title="beIN SPORTS TOD",beIN SPORTS TOD 6
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081907&extension=ts&play_token=MfZXk8dS3V
+#EXTINF:-1 group-title="beIN SPORTS TOD",beIN SPORTS TOD 7
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081906&extension=ts&play_token=wgHk7IhyWP
+#EXTINF:-1 group-title="beIN SPORTS TOD",beIN SPORTS TOD 8
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081905&extension=ts&play_token=KMnG7SpZMy
+#EXTINF:-1 group-title="beIN SPORTS TOD",beIN SPORTS TOD 9
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081904&extension=ts&play_token=RSmhcbqi5q
+#EXTINF:-1 group-title="beIN SPORTS TOD",beIN SPORTS TOD EXTRA 1
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081901&extension=ts&play_token=303dEwWcV2
+#EXTINF:-1 group-title="beIN SPORTS TOD",beIN SPORTS  TOD EXTRA 2
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081900&extension=ts&play_token=1i8zyaZGhx
+#EXTINF:-1 group-title="beIN SPORTS TOD",beIN SPORTS  TOD EXTRA 3
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081899&extension=ts&play_token=EMUEJkFEcc
+
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY INFO HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085222&extension=ts&play_token=llZ7h8w1pK
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 1 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085221&extension=ts&play_token=2VpvMZb6G8
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 2 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085220&extension=ts&play_token=yudVCNNsM0
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 3 HD 
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085219&extension=ts&play_token=2njjKuBGS0
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 4 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085218&extension=ts&play_token=EOjvbNwPc7
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 5 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085217&extension=ts&play_token=FZZKO1cX96
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 6 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085216&extension=ts&play_token=g99SAzmD6B
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 7 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085215&extension=ts&play_token=0zqQteAsuS
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 8 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085214&extension=ts&play_token=xpWOGawINw
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 9 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085213&extension=ts&play_token=8JU0CnUv9F
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 10 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085212&extension=ts&play_token=is926R2qtE
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 11 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085211&extension=ts&play_token=5eB64fPkad
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 12 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085210&extension=ts&play_token=bQgPnAcx1e
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 13 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085209&extension=ts&play_token=Ubk7QLU8cx
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 14 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085208&extension=ts&play_token=CX7pSehQqy
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 15 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085207&extension=ts&play_token=aNAEHlp9Fj
+
 
 
 
@@ -246,40 +355,3 @@ https://live-hls-web-aja-gcp.thehlive.com/AJA/index.m3u8
 https://live-hls-web-ajd-gcp.thehlive.com/AJD/index.m3u8
 #EXTINF:-1 group-title="---------",xxxxx
 https://live-hls-web-ajm-gcp.thehlive.com/AJM/index.m3u8
-
-
-
-#EXTINF:-1 group-title="         ",
-#EXTINF:-1 group-title="         ",
-#EXTINF:-1 group-title="         ",
-#EXTINF:-1 group-title="         ",
-#EXTINF:-1 group-title="         ",
-#EXTINF:-1 group-title="         ",
-#EXTINF:-1 group-title="         ",
-#EXTINF:-1 group-title="         ",
-#EXTINF:-1 group-title="         ",
-#EXTINF:-1 group-title="         ",
-#EXTINF:-1 group-title="         ",
-#EXTINF:-1 group-title="         ",
-#EXTINF:-1 group-title="         ",
-
-
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
