@@ -1,0 +1,285 @@
+#EXTM3U
+#EXTINF:-1 group-title="ISLAMIC",Saudia Quran HD
+https://www.elahmad.org/tv/m3u8/online_live_14_tv.m3u8?id=qoran_tv&t=111111111
+#EXTINF:-1 group-title="ISLAMIC",Saudia Sonnah HD
+https://www.elahmad.org/tv/m3u8/online_live_14_tv.m3u8?id=sunna_tv&t=111111111
+
+#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS NEWS HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1294773&extension=ts&play_token=e8xgpa85dg
+#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS Global HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1294772&extension=ts&play_token=Gkj6hviX7A
+#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS MAX 1 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085193&extension=ts&play_token=KiS5dYD8ct
+#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS MAX 2 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085192&extension=ts&play_token=ImbRr1MCHB
+#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS MAX 3 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085191&extension=ts&play_token=bNtQJGqC7G
+#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS MAX 4 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085190&extension=ts&play_token=HvxODv4FTJ
+#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS MAX 5 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085189&extension=ts&play_token=jLxh7pclRq
+#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS MAX 6 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085188&extension=ts&play_token=qmdZMTxNAi
+#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS 1 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411374&extension=ts&play_token=fA685ifFNr
+#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS 2 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411373&extension=ts&play_token=iRHirK9m2z
+#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS 3 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411372&extension=ts&play_token=rmTUr7dfxq
+#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS 4 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411371&extension=ts&play_token=nFBSsCx2fE
+#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS 5 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411370&extension=ts&play_token=x8ir8h2SEG
+#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS 6 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411369&extension=ts&play_token=hZkUIDqHeG
+#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS 7 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411368&extension=ts&play_token=RNRSB229eR
+#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS 8 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411367&extension=ts&play_token=G0DZiShqWA
+#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS 9 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411366&extension=ts&play_token=fWVW3UwtOY
+
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS NEWS FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1294773&extension=ts&play_token=W8OibZx1fu
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS Global FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1294772&extension=ts&play_token=Gkj6hviX7A
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS MAX 1 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085199&extension=ts&play_token=FhXCuVZHk2
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS MAX 2 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085198&extension=ts&play_token=pJFNfPZV5n
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS MAX 3 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085197&extension=ts&play_token=AUBXM42vzB
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS MAX 4 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085196&extension=ts&play_token=PhjhiTBe7T
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS MAX 5 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085195&extension=ts&play_token=lrOkhO8Ppg
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS MAX 6 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085194&extension=ts&play_token=5m2ndu6abx
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS 1 FHD+
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836268&extension=ts&play_token=ZSiwB6wfZ4
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS 2 FHD+
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836267&extension=ts&play_token=y49H9XSjxf
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS 3 FHD+
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836266&extension=ts&play_token=k3NPYsPZZp
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS 4 FHD+
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836265&extension=ts&play_token=hndpjYuOJh
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS 5 FHD+
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836264&extension=ts&play_token=zxjeAMzVsh
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS 6 FHD+
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411378&extension=ts&play_token=MwgPQndLmk
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS 7 FHD+
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836262&extension=ts&play_token=HJAFOq5d9X
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS 8 FHD+
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411376&extension=ts&play_token=dv5CIOAQFu
+#EXTINF:-1 group-title="VIP2 beIN SPORTS FHD",biIN SPORTS 9 FHD+
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411375&extension=ts&play_token=qyc2FwLBFj
+
+#EXTINF:-1 group-title="ALWAN SPORTS",ALWAN SPORTS 1 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859092&extension=ts&play_token=VB6L15tv7C
+#EXTINF:-1 group-title="ALWAN SPORTS",ALWAN SPORTS 2 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859091&extension=ts&play_token=boqUSJOHFa
+#EXTINF:-1 group-title="ALWAN SPORTS",ALWAN SPORTS 3 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859090&extension=ts&play_token=AxII8HZfxX
+#EXTINF:-1 group-title="ALWAN SPORTS",ALWAN SPORTS 4 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859089&extension=ts&play_token=wmZWPaK1nN
+#EXTINF:-1 group-title="ALWAN SPORTS",ALWAN SPORTS 5 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859088&extension=ts&play_token=NGbtSIGXRo
+#EXTINF:-1 group-title="ALWAN SPORTS",ALWAN SPORTS 6 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859087&extension=ts&play_token=wqOquIAUX6
+#EXTINF:-1 group-title="ALWAN SPORTS",ALWAN SPORTS 1 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859098&extension=ts&play_token=VV4VatjODO
+#EXTINF:-1 group-title="ALWAN SPORTS",ALWAN SPORTS 2 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859097&extension=ts&play_token=CHxNtgyXNq
+#EXTINF:-1 group-title="ALWAN SPORTS",ALWAN SPORTS 3 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859096&extension=ts&play_token=W8RxcHlt4I
+#EXTINF:-1 group-title="ALWAN SPORTS",ALWAN SPORTS 4 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859095&extension=ts&play_token=xQAYTf42yE
+#EXTINF:-1 group-title="ALWAN SPORTS",ALWAN SPORTS 5 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859094&extension=ts&play_token=sukL48ONMp
+#EXTINF:-1 group-title="ALWAN SPORTS",ALWAN SPORTS 6 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859093&extension=ts&play_token=kP1zdtMH31
+
+
+#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN MOVIES 1 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1356721&extension=ts&play_token=BYyCiYrqnE
+#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN MOVIES 2 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1356720&extension=ts&play_token=URSwxtGSG2
+#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN MOVIES 3 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1356719&extension=ts&play_token=z6oQgLJacZ
+#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN MOVIES 4 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1356718&extension=ts&play_token=jjEIOcRW8p
+#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN SERIES 1 HD
+#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN SERIES 2 HD 
+#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN DRAMA
+#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN STAR MOVIES 1 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1356722&extension=ts&play_token=4xLYsAGAaz
+#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN TRAVEL HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1356725&extension=ts&play_token=379RBRtzK0
+#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN FOOD NITWAORK HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1356724&extension=ts&play_token=fD0g3HZ34V
+#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN BABY TV HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141560&extension=ts&play_token=uY28CUo6UB
+#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN CARTOON NETWORK HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141553&extension=ts&play_token=fZ1cINkKlR
+#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN BOOMERANG HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141555&extension=ts&play_token=ueGzLHuyXQ
+#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN DISCOVERY FAMILY HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141562&extension=ts&play_token=RIuFql1EMB
+#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN ANIMAL PLANET HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1356726&extension=ts&play_token=rlhquasToM
+#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN NATIONAL GEO WILD HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141563&extension=ts&play_token=7FzPRxfqbU
+#EXTINF:-1 group-title="beIN ENTERTAINMANT",biIN BBC EARTH FHD
+#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN
+#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN
+#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN
+
+#EXTINF:-1 group-title="MBC ROTANA",mbc 1 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2079499&extension=ts&play_token=zipyhau4cA
+#EXTINF:-1 group-title="MBC ROTANA",mbc 2 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2079498&extension=ts&play_token=v4r2tbsaMy
+#EXTINF:-1 group-title="MBC ROTANA",mbc 3 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2079497&extension=ts&play_token=lYciSHRFHi
+#EXTINF:-1 group-title="MBC ROTANA",mbc 4 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2079496&extension=ts&play_token=wk91sZrhFb
+#EXTINF:-1 group-title="MBC ROTANA",mbc 5
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=90929&extension=ts&play_token=gHO67Uqkit
+#EXTINF:-1 group-title="MBC ROTANA",mbc action HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2079495&extension=ts&play_token=tpP2X9qB0M
+#EXTINF:-1 group-title="MBC ROTANA",mbc max
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2079490&extension=ts&play_token=6bbynCvi2n
+#EXTINF:-1 group-title="MBC ROTANA",mbc bollywood HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2079494&extension=ts&play_token=xPYThzGrD9
+#EXTINF:-1 group-title="MBC ROTANA",zee aflam
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6593&extension=ts&play_token=tT6OdKHMbb
+#EXTINF:-1 group-title="MBC ROTANA",zee alwan
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6678&extension=ts&play_token=0tIOut379a
+#EXTINF:-1 group-title="MBC ROTANA",mbc drama HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2079493&extension=ts&play_token=Y26V6UaxmB
+#EXTINF:-1 group-title="MBC ROTANA",mbc drama+ HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2079488&extension=ts&play_token=BykDyOoJWP
+#EXTINF:-1 group-title="MBC ROTANA",mbc variety plus HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=529523&extension=ts&play_token=8BOIl2wJsM
+#EXTINF:-1 group-title="MBC ROTANA",mbc zoom HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765957&extension=ts&play_token=o1kk1ITVPy
+#EXTINF:-1 group-title="MBC ROTANA",mbc plus HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765956&extension=ts&play_token=ibY2chKxrt
+#EXTINF:-1 group-title="MBC ROTANA",mbc movies HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765954&extension=ts&play_token=C4iBAqIVA5
+#EXTINF:-1 group-title="MBC ROTANA",mbc syrya + HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765945&extension=ts&play_token=vUYQNV6Lor
+#EXTINF:-1 group-title="MBC ROTANA",mbc seven + HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765940&extension=ts&play_token=PaJCWAQM2I
+#EXTINF:-1 group-title="MBC ROTANA",mbc eight + HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765952&extension=ts&play_token=j9rapH84lz
+#EXTINF:-1 group-title="MBC ROTANA",mbc nine HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765955&extension=ts&play_token=cIOp2eiM71
+#EXTINF:-1 group-title="MBC ROTANA",mbc ten + HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765948&extension=ts&play_token=4U4uWiTgGL
+#EXTINF:-1 group-title="MBC ROTANA",mbc premium 1 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765947&extension=ts&play_token=33aTRwJizk
+#EXTINF:-1 group-title="MBC ROTANA",mbc premium 2 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765946&extension=ts&play_token=8UfnvEc5hP
+#EXTINF:-1 group-title="MBC ROTANA",mbc lift + HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=718442&extension=ts&play_token=j3sJywFBU3
+#EXTINF:-1 group-title="MBC ROTANA",mbc power + HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=643946&extension=ts&play_token=wjchwiYq08
+#EXTINF:-1 group-title="MBC ROTANA",mbc power sport + HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=661640&extension=ts&play_token=PlP65nIsmh
+#EXTINF:-1 group-title="MBC ROTANA",mbc toons + HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1021118&extension=ts&play_token=ITJ4cvK7r3
+#EXTINF:-1 group-title="MBC ROTANA",mbc toons 1 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1543650&extension=ts&play_token=PMpSkKALSV
+#EXTINF:-1 group-title="MBC ROTANA",mbc toons 2 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1543651&extension=ts&play_token=KzUj4rPPTJ
+#EXTINF:-1 group-title="MBC ROTANA",mbc toon HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765949&extension=ts&play_token=EVBfleSZz2
+#EXTINF:-1 group-title="MBC ROTANA",mbc documentary HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1543653&extension=ts&play_token=SnxvIGisBw
+#EXTINF:-1 group-title="MBC ROTANA",mbc geographic HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765953&extension=ts&play_token=rPzY9p6ZgK
+#EXTINF:-1 group-title="MBC ROTANA",mbc anakeed HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1543652&extension=ts&play_token=yyITZh7OZh
+
+
+
+#EXTINF:-1 group-title="ARABE SPORTS",KSA SPORTS 1 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079507&extension=ts&play_token=zioeF83Rhz
+#EXTINF:-1 group-title="ARABE SPORTS",KSA SPORTS 2 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079506&extension=ts&play_token=IuXr2POzZc
+#EXTINF:-1 group-title="ARABE SPORTS",KSA SPORTS 3 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079505&extension=ts&play_token=pa5oUFxoxG
+#EXTINF:-1 group-title="ARABE SPORTS",AD SPORTS 1
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=993336&extension=ts&play_token=zydJNa4ll9
+#EXTINF:-1 group-title="ARABE SPORTS",AD SPORTS 2
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=993337&extension=ts&play_token=M2pShnEmpe
+#EXTINF:-1 group-title="ARABE SPORTS",ALKASS SPORTS 1 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=591593&extension=ts&play_token=hasEdp7HLU
+#EXTINF:-1 group-title="ARABE SPORTS",ALKASS SPORTS 2 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=591591&extension=ts&play_token=f89PSNB468
+#EXTINF:-1 group-title="ARABE SPORTS",ALKASS SPORTS 3 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=787903&extension=ts&play_token=Ilw2VhAn7y
+#EXTINF:-1 group-title="ARABE SPORTS",ALKASS SPORTS 4 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=591588&extension=ts&play_token=kY6lYMpaSg
+#EXTINF:-1 group-title="ARABE SPORTS",ALKASS SPORTS 5 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=591587&extension=ts&play_token=KI30CaQw9D
+#EXTINF:-1 group-title="ARABE SPORTS",ALKASS SPORTS 6 FHD
+
+#EXTINF:-1 group-title="ARABE SPORTS",ALKASS SPORTS 7 FHD
+
+#EXTINF:-1 group-title="ARABE SPORTS",ALKASS SPORTS 8 FHD
+
+
+
+
+#EXTINF:-1 group-title="---------",xxxxx
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
+#EXTINF:-1 group-title="---------",xxxxx
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/alaraby1publish/alaraby1_source/chunks.m3u8
+#EXTINF:-1 group-title="---------",xxxxx
+https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8?orig=arabic
+#EXTINF:-1 group-title="---------",xxxxx
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="---------",xxxxx
+https://live-hls-web-aja-gcp.thehlive.com/AJA/index.m3u8
+#EXTINF:-1 group-title="---------",xxxxx
+https://live-hls-web-ajd-gcp.thehlive.com/AJD/index.m3u8
+#EXTINF:-1 group-title="---------",xxxxx
+https://live-hls-web-ajm-gcp.thehlive.com/AJM/index.m3u8
+
+
+
+#EXTINF:-1 group-title="         ",
+#EXTINF:-1 group-title="         ",
+#EXTINF:-1 group-title="         ",
+#EXTINF:-1 group-title="         ",
+#EXTINF:-1 group-title="         ",
+#EXTINF:-1 group-title="         ",
+#EXTINF:-1 group-title="         ",
+#EXTINF:-1 group-title="         ",
+#EXTINF:-1 group-title="         ",
+#EXTINF:-1 group-title="         ",
+#EXTINF:-1 group-title="         ",
+#EXTINF:-1 group-title="         ",
+#EXTINF:-1 group-title="         ",
+
+
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
