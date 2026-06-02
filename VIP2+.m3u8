@@ -5,9 +5,9 @@ https://www.elahmad.org/tv/m3u8/online_live_14_tv.m3u8?id=qoran_tv&t=111111111
 https://www.elahmad.org/tv/m3u8/online_live_14_tv.m3u8?id=sunna_tv&t=111111111
 
 #EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS NEWS HD
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1294773&extension=ts&play_token=e8xgpa85dg
+https://connect-live.bein.com/besmenasportsnews/index.mpd?hdnts=data=env=beinmena-production,customerID=0,clientID=256,jwt=eyJhbGciOiJIUzI1NiJ9.eyJpZF9jaGFubmVsIjo3NSwiYXBpcCI6IjEwNS4xMDUuMjQ3LjIiLCJpZF9pZGVudGl0eSI6MCwiaWRfZGV2aWNlIjoib3BlbmFwaSIsImlkX2N1c3RvbWVyIjowLCJpZF9zdHJlYW0iOiI4MTQzNTc2Yi1jMDg2LTQ0MDUtODdkNC1mYzkwNzE2NjZmMzEifQ.5cWTryaX00lqrLl7HakMxd7NBAZdsXpUA1t-7kcHF9w~st=1780387137~exp=1780394337~acl=/besmenasportsnews/*~hmac=73993bf2fe4a36bbb1b6cc35c358049c0e501978701e006e78fa185e85adce8a&?idChannel=75&playerName=bitmovin-web&playerVersion=10.0&checksum=svV61Z364Lxe99%2FmzpzvMMST1Q1dUGVL7zNM2cEfqFU%3D
 #EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS Global HD
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1294772&extension=ts&play_token=Gkj6hviX7A
+https://connect-live.bein.com/besmenasports/index.mpd?hdnts=data=env=beinmena-production,customerID=0,clientID=256,jwt=eyJhbGciOiJIUzI1NiJ9.eyJpZF9jaGFubmVsIjo3NCwiYXBpcCI6IjEwNS4xMDUuMjQ3LjIiLCJpZF9pZGVudGl0eSI6MCwiaWRfZGV2aWNlIjoib3BlbmFwaSIsImlkX2N1c3RvbWVyIjowLCJpZF9zdHJlYW0iOiI1ODhlYzY5ZC0yYmJkLTRmNjktYTZhNC01MDZmNDhhYTRhZGIifQ.UKP-0Q4K8tNtZPKdw2neL-mxXe7rrHuRZu1jQC0ypyY~st=1780387754~exp=1780394954~acl=/besmenasports/*~hmac=3c96c733b31ad2eea5f928d767950f929cdffa7b28ddd21526c503cf099b8d14&?idChannel=74&playerName=bitmovin-web&playerVersion=10.0&checksum=IxdUGgtzleC%2BdcaNMmZeOClGauYnuJdsKg5uOwtm3JE%3D
 #EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS MAX 1 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085193&extension=ts&play_token=KiS5dYD8ct
 #EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS MAX 2 HD
