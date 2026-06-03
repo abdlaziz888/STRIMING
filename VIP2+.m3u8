@@ -4,74 +4,78 @@ https://www.elahmad.org/tv/m3u8/online_live_14_tv.m3u8?id=qoran_tv&t=111111111
 #EXTINF:-1 group-title="ISLAMIC",Saudia Sonnah HD
 https://www.elahmad.org/tv/m3u8/online_live_14_tv.m3u8?id=sunna_tv&t=111111111
 
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS NEWS HD
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/4k_DIGITAL_Mono.png",biIN 4K UHD 
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2034167&extension=ts&play_token=6Yu3cC7v7z
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png",biIN SPORTS NEWS HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836269&extension=ts&play_token=YVpx8xfdE7
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS Global HD
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",biIN SPORTS Global HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836270&extension=ts&play_token=feJCc3oQ0v
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS MAX 1 HD
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085193&extension=ts&play_token=KiS5dYD8ct
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS MAX 2 HD
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085192&extension=ts&play_token=ImbRr1MCHB
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS MAX 3 HD
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",biIN SPORTS MAX 3 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085191&extension=ts&play_token=bNtQJGqC7G
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS MAX 4 HD
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",biIN SPORTS MAX 4 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085190&extension=ts&play_token=HvxODv4FTJ
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS MAX 5 HD
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png",biIN SPORTS MAX 5 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085189&extension=ts&play_token=jLxh7pclRq
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS MAX 6 HD
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png",biIN SPORTS MAX 6 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085188&extension=ts&play_token=qmdZMTxNAi
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS 1 HD
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",biIN SPORTS 1 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411374&extension=ts&play_token=fA685ifFNr
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS 2 HD
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",biIN SPORTS 2 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411373&extension=ts&play_token=iRHirK9m2z
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS 3 HD
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",biIN SPORTS 3 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411372&extension=ts&play_token=rmTUr7dfxq
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS 4 HD
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",biIN SPORTS 4 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411371&extension=ts&play_token=nFBSsCx2fE
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS 5 HD
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",biIN SPORTS 5 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411370&extension=ts&play_token=x8ir8h2SEG
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS 6 HD
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono-d-1.png",biIN SPORTS 6 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411369&extension=ts&play_token=hZkUIDqHeG
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS 7 HD
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",biIN SPORTS 7 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411368&extension=ts&play_token=RNRSB229eR
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS 8 HD
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",biIN SPORTS 8 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411367&extension=ts&play_token=G0DZiShqWA
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS 9 HD
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",biIN SPORTS 9 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411366&extension=ts&play_token=fWVW3UwtOY
 
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS NEWS FHD
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/4k_DIGITAL_Mono.png",biIN 4K UHD 
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2034167&extension=ts&play_token=6Yu3cC7v7z
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png",biIN SPORTS NEWS FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836269&extension=ts&play_token=YVpx8xfdE7
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS Global FHD
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",biIN SPORTS Global FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836270&extension=ts&play_token=feJCc3oQ0v
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS MAX 1 FHD
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085199&extension=ts&play_token=FhXCuVZHk2
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS MAX 2 FHD
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085198&extension=ts&play_token=pJFNfPZV5n
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS MAX 3 FHD
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",biIN SPORTS MAX 3 FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085197&extension=ts&play_token=AUBXM42vzB
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS MAX 4 FHD
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",biIN SPORTS MAX 4 FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085196&extension=ts&play_token=PhjhiTBe7T
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS MAX 5 FHD
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png",biIN SPORTS MAX 5 FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085195&extension=ts&play_token=lrOkhO8Ppg
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS MAX 6 FHD
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png",biIN SPORTS MAX 6 FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085194&extension=ts&play_token=5m2ndu6abx
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS 1 FHD+
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",biIN SPORTS 1 FHD+
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836268&extension=ts&play_token=ZSiwB6wfZ4
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS 2 FHD+
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",biIN SPORTS 2 FHD+
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836267&extension=ts&play_token=y49H9XSjxf
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS 3 FHD+
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",biIN SPORTS 3 FHD+
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836266&extension=ts&play_token=k3NPYsPZZp
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS 4 FHD+
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",biIN SPORTS 4 FHD+
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836265&extension=ts&play_token=hndpjYuOJh
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS 5 FHD+
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",biIN SPORTS 5 FHD+
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836264&extension=ts&play_token=zxjeAMzVsh
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS 6 FHD+
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono-d-1.png",biIN SPORTS 6 FHD+
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411378&extension=ts&play_token=MwgPQndLmk
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS 7 FHD+
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",biIN SPORTS 7 FHD+
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836262&extension=ts&play_token=HJAFOq5d9X
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS 8 FHD+
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",biIN SPORTS 8 FHD+
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411376&extension=ts&play_token=dv5CIOAQFu
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS 9 FHD+
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",biIN SPORTS 9 FHD+
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411375&extension=ts&play_token=qyc2FwLBFj
 
 #EXTINF:-1 group-title="ALWAN SPORTS",ALWAN SPORTS 1 HD
@@ -225,56 +229,56 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=591587&extens
 #EXTINF:-1 group-title="ARABE SPORTS",ALKASS SPORTS 7 FHD
 #EXTINF:-1 group-title="ARABE SPORTS",ALKASS SPORTS 8 FHD
 
-#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 1 FHD FM
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 FHD FM
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077615&extension=ts&play_token=m0iNidH3dN
-#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 2 FHD FM
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 FHD FM
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077614&extension=ts&play_token=mwLrsO48oP
-#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 1 HD FM
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 HD FM
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077609&extension=ts&play_token=98tl2fRAkh
-#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 2 HD FM
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 HD FM
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077608&extension=ts&play_token=unvcurb7Ua
-#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 1 SD FM
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 SD FM
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077603&extension=ts&play_token=TntaDs6g4S
-#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 2 SD FM
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 SD FM
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077602&extension=ts&play_token=rC3o4PMzQN
 
-#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 1 FHD G
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 FHD G
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085728&extension=ts&play_token=Qaat3a2wkQ
-#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 2 FHD G
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 FHD G
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085725&extension=ts&play_token=8N2CMcQtMr
-#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 1 HD G
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 HD G
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085727&extension=ts&play_token=eLYWYTPaI0
-#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 2 HD G
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 HD G
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085724&extension=ts&play_token=HaVWr4zXuZ
-#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 1 SD G
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 SD G
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085726&extension=ts&play_token=mtWLVqsnaW
-#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 2 SD G
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 SD G
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085723&extension=ts&play_token=ralkTMeuK4
 
-#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 1 FHD MN
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 FHD MN
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2076984&extension=ts&play_token=v6FEBUuDJs
-#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 2 FHD MN
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 FHD MN
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2076983&extension=ts&play_token=GRHPHMR56n
-#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 1 HD MN
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 HD MN
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2076972&extension=ts&play_token=BsIZ2qu2xT
-#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 2 HD MN
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 HD MN
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2076971&extension=ts&play_token=Qux8cyySpr
-#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 1 SD MN
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 SD MN
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2076966&extension=ts&play_token=1JR5utcyti
-#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 2 SD MN
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 SD MN
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2076965&extension=ts&play_token=VahilcdezC
 
-#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 1 FHD BE
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 FHD BE
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085199&extension=ts&play_token=81tX5u5ZFm
-#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 2 FHD BE
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 FHD BE
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085198&extension=ts&play_token=rvPlJslJut
-#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 1 HD BE
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 HD BE
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085193&extension=ts&play_token=asTHmT97wy
-#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 2 HD BE
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 HD BE
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085192&extension=ts&play_token=EQWGxpl6B3
-#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 1 SD BE
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 SD BE
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085187&extension=ts&play_token=bKn1wClL9s
-#EXTINF:-1 group-title="beIN MAX vip2 test",biIN SPORTS MAX 2 SD BE
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 SD BE
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085186&extension=ts&play_token=Q9aDqPXQFW
 
 #EXTINF:-1 group-title="beIN SPORTS TOD",beIN SPORTS TOD 4K
@@ -304,40 +308,79 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081900&exten
 #EXTINF:-1 group-title="beIN SPORTS TOD",beIN SPORTS  TOD EXTRA 3
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081899&extension=ts&play_token=EMUEJkFEcc
 
-#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY INFO HD
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY INFO 𝗛𝗗
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085222&extension=ts&play_token=llZ7h8w1pK
-#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 1 HD
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 1 𝗛𝗗
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085221&extension=ts&play_token=2VpvMZb6G8
-#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 2 HD
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 2 𝗛𝗗
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085220&extension=ts&play_token=yudVCNNsM0
-#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 3 HD 
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 3 𝗛𝗗 
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085219&extension=ts&play_token=2njjKuBGS0
-#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 4 HD
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 4 𝗛𝗗
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085218&extension=ts&play_token=EOjvbNwPc7
-#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 5 HD
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 5 𝗛𝗗
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085217&extension=ts&play_token=FZZKO1cX96
-#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 6 HD
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 6 𝗛𝗗
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085216&extension=ts&play_token=g99SAzmD6B
-#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 7 HD
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 7 𝗛𝗗
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085215&extension=ts&play_token=0zqQteAsuS
-#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 8 HD
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 8 𝗛𝗗
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085214&extension=ts&play_token=xpWOGawINw
-#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 9 HD
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 9 𝗛𝗗
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085213&extension=ts&play_token=8JU0CnUv9F
-#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 10 HD
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 10 𝗛𝗗
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085212&extension=ts&play_token=is926R2qtE
-#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 11 HD
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 11 𝗛𝗗
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085211&extension=ts&play_token=5eB64fPkad
-#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 12 HD
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 12 𝗛𝗗
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085210&extension=ts&play_token=bQgPnAcx1e
-#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 13 HD
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 13 𝗛𝗗
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085209&extension=ts&play_token=Ubk7QLU8cx
-#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 14 HD
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 14 𝗛𝗗
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085208&extension=ts&play_token=CX7pSehQqy
-#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 15 HD
+#EXTINF:-1 group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 15 𝗛𝗗
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085207&extension=ts&play_token=aNAEHlp9Fj
 
+#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV1.png.webp?itok=BFDLIIuY",programme nation 𝗛𝗗
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6724&extension=ts&play_token=sqjrh4DzkF
+#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV2.png.webp?itok=9e7qO3Uc",Canal algerie 𝗛𝗗
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6723&extension=ts&play_token=ZLqRX3BxcB
+#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV3.png.webp?itok=AH9qQ32X",A3 𝗛𝗗
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6722&extension=ts&play_token=HtgTGymuRs
+#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV4.png.webp?itok=DwNIsPKH",TV 4 
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=83669&extension=ts&play_token=P3xoorAS2y
+#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV5.png.webp?itok=pFFb7BW4",TV 5 
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=8167&extension=ts&play_token=qLK3VZHUKQ
+#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-chababiya6.png.webp?itok=CtaUUAMW",TV 6 𝗛𝗗
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=196191&extension=ts&play_token=ZxLhTpFrCQ
+#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV7.png.webp?itok=tA0GQkJI",TV 7 ELMAARIFA 𝗛𝗗
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=518614&extension=ts&play_token=MOxOG2wuhQ
+#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV8.png.webp?itok=vbb5FGFu",TV 8 EDHAKIRA 𝗛𝗗
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=518612&extension=ts&play_token=czrvPslQX0
+#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV9.png.webp?itok=OYK_Upop",ALGERIA
 
+#EXTINF:-1 group-title="ALGERIA Channels",ECHOUROUK TV
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6715&extension=ts&play_token=xKzucY91iQ
+#EXTINF:-1 group-title="ALGERIA Channels",ECHOUROUK NEWS
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6716&extension=ts&play_token=NZGMotUKPl
+#EXTINF:-1 group-title="ALGERIA Channels",ENNAHAR TV
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6716&extension=ts&play_token=NZGMotUKPl
+#EXTINF:-1 group-title="ALGERIA Channels",EL HAYAT TV
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=84254&extension=ts&play_token=5Ld1nG7QIc
+#EXTINF:-1 group-title="ALGERIA Channels",EL WATANIA TV
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=518616&extension=ts&play_token=icNV7QAGAG
+#EXTINF:-1 group-title="ALGERIA Channels",EL BILAD TV
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=21717&extension=ts&play_token=lnfTO94ZQO
+#EXTINF:-1 group-title="ALGERIA Channels",EL HEDDAF TV
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6700&extension=ts&play_token=Ma6kpLphwh
+#EXTINF:-1 group-title="ALGERIA Channels",ONE TV
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1472001&extension=ts&play_token=mZ01aa4jEn
+#EXTINF:-1 group-title="ALGERIA Channels",SAMIRA TV
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6710&extension=ts&play_token=Yl0pR7FMzi
+#EXTINF:-1 group-title="ALGERIA Channels",ZAHRA TV
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=828228&extension=ts&play_token=oi1WpYseH1
+#EXTINF:-1 group-title="ALGERIA Channels",ALMAGHARIBIA TV
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=518616&extension=ts&play_token=icNV7QAGAG
 
 
 
