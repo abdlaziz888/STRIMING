@@ -16,9 +16,9 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085190&exten
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085189&extension=ts&play_token=jLxh7pclRq
 #EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="biIN SPORTS MAX 6 HD" group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png",biIN SPORTS MAX 6 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085188&extension=ts&play_token=qmdZMTxNAi
-#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="biIN SPORTS 1 HD" group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",biIN SPORTS 1 HD
+#EXTINF:-1 tvg-id="biINSPORTS1.qa" tvg-name="biIN SPORTS 1 HD" tvg-country="QA" tvg-language="" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",biIN SPORTS 1 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411374&extension=ts&play_token=fA685ifFNr
-#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="biIN SPORTS 2 HD" group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",biIN SPORTS 2 HD
+#EXTINF:-1 tvg-id="biINSPORTS2.qa" tvg-name="biIN SPORTS 2 HD" tvg-country="QA" tvg-language="" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",biIN SPORTS 2 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411373&extension=ts&play_token=iRHirK9m2z
 #EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="biIN SPORTS 3 HD" group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",biIN SPORTS 3 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411372&extension=ts&play_token=rmTUr7dfxq
