@@ -1,2 +1,36 @@
-#EXTINF:-1,biIN SPORTS MAX 1 FHD MN
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2076984&extension=ts&play_token=jXqGtcDUeS
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="biIN 4K UHD" group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/4k_DIGITAL_Mono.png",biIN 4K UHD 
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2034167&extension=ts&play_token=6Yu3cC7v7z
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="biIN SPORTS NEWS HD" group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png",biIN SPORTS NEWS HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836269&extension=ts&play_token=YVpx8xfdE7
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="biIN SPORTS Global HD" group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",biIN SPORTS Global HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836270&extension=ts&play_token=feJCc3oQ0v
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="biIN SPORTS MAX 1 HD" group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085193&extension=ts&play_token=KiS5dYD8ct
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="biIN SPORTS MAX 2 HD" group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085192&extension=ts&play_token=ImbRr1MCHB
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="biIN SPORTS MAX 3 HD" group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",biIN SPORTS MAX 3 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085191&extension=ts&play_token=bNtQJGqC7G
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="biIN SPORTS MAX 4 HD" group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",biIN SPORTS MAX 4 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085190&extension=ts&play_token=HvxODv4FTJ
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="biIN SPORTS MAX 5 HD" group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png",biIN SPORTS MAX 5 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085189&extension=ts&play_token=jLxh7pclRq
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="biIN SPORTS MAX 6 HD" group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png",biIN SPORTS MAX 6 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085188&extension=ts&play_token=qmdZMTxNAi
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="biIN SPORTS 1 HD" group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",biIN SPORTS 1 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411374&extension=ts&play_token=fA685ifFNr
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="biIN SPORTS 2 HD" group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",biIN SPORTS 2 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411373&extension=ts&play_token=iRHirK9m2z
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="biIN SPORTS 3 HD" group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",biIN SPORTS 3 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411372&extension=ts&play_token=rmTUr7dfxq
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="biIN SPORTS 4 HD" group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",biIN SPORTS 4 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411371&extension=ts&play_token=nFBSsCx2fE
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="biIN SPORTS 5 HD" group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",biIN SPORTS 5 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411370&extension=ts&play_token=x8ir8h2SEG
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="biIN SPORTS 6 HD" group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono-d-1.png",biIN SPORTS 6 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411369&extension=ts&play_token=hZkUIDqHeG
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="biIN SPORTS 7 HD" group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",biIN SPORTS 7 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411368&extension=ts&play_token=RNRSB229eR
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="biIN SPORTS 8 HD" group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",biIN SPORTS 8 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411367&extension=ts&play_token=G0DZiShqWA
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="biIN SPORTS 9 HD" group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",biIN SPORTS 9 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411366&extension=ts&play_token=fWVW3UwtOY
