@@ -126,7 +126,7 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1356725&exten
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1356724&extension=ts&play_token=fD0g3HZ34V
 #EXTINF:-1 tvg-logo="     " group-title="beIN ENTERTAINMANT" tvg-logo="",beIN BABY TV HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141560&extension=ts&play_token=uY28CUo6UB
-#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cartoonnetworkarabic/active/6a8b1969d82a5a26b144a73c2a1179f1.svg" group-title="beIN ENTERTAINMANT" tvg-logo="",beIN CARTOON NETWORK HD
+#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/Cartoon-Network-Arabic-1.png" group-title="beIN ENTERTAINMANT" tvg-logo="",beIN CARTOON NETWORK HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141553&extension=ts&play_token=fZ1cINkKlR
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/bddpe/unsafe/360x270/smart/56805470" group-title="beIN ENTERTAINMANT" tvg-logo="",beIN BOOMERANG HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141555&extension=ts&play_token=ueGzLHuyXQ
