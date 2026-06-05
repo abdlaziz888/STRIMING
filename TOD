@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/6f920fed-c054-47b5-b006-eef2f73b4917?height=auto&width=288&croppingPoint=&version=1&type=avif" group-title="ISLAMIC",Saudia Quran HD
-https://www.elahmad.org/tv/m3u8/online_live_14_tv.m3u8?id=qoran_tv&t=111111111
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=7587&extension=ts&play_token=VOdrfCEKLQ
 #EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/a2180922-6de9-45c4-ae40-0411a5c9666f?height=auto&width=288&croppingPoint=&version=1&type=avif" group-title="ISLAMIC",Saudia Sonnah HD
-https://www.elahmad.org/tv/m3u8/online_live_14_tv.m3u8?id=sunna_tv&t=111111111
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6627&extension=ts&play_token=saNy1CP4iU
 
 #EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/4k_DIGITAL_Mono.png",biIN 4K UHD 
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2034167&extension=ts&play_token=6Yu3cC7v7z
