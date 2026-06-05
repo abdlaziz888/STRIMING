@@ -134,13 +134,16 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141555&exten
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141562&extension=ts&play_token=RIuFql1EMB
 #EXTINF:-1 tvg-logo="     " group-title="beIN ENTERTAINMANT" tvg-logo="",beIN ANIMAL PLANET HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1356726&extension=ts&play_token=rlhquasToM
-#EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNNATIONALGEOGRAPHICY2025MAR/ADMNNATIONALGEOGRAPHICY2025MAR-title-logo-en.png" group-title="beIN ENTERTAINMANT" tvg-logo="",NATIONAL GEO HD
+#EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNNATIONALGEOGRAPHICY2025MAR/ADMNNATIONALGEOGRAPHICY2025MAR-title-logo-en.png" group-title="beIN ENTERTAINMANT" tvg-logo="",AD Nat Geo HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6586&extension=ts&play_token=RF3Cqw7n6x
+#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/Nat_geo_hd.png" group-title="beIN ENTERTAINMANT" tvg-logo="",NATIONAL GEO HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141564&extension=ts&play_token=eE1O7IRO19
 #EXTINF:-1 tvg-logo="https://www.natgeotv.com/App_Resources2/Themes/2012/Images/Main/natgeowild.png" group-title="beIN ENTERTAINMANT" tvg-logo="",NATIONAL GEO WILD HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141563&extension=ts&play_token=7FzPRxfqbU
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2020/06/BBCEarth-new_200x200.png" group-title="beIN ENTERTAINMANT" tvg-logo="",biIN BBC EARTH FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141567&extension=ts&play_token=GsYAAABaGt
 #EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6586&extension=ts&play_token=RF3Cqw7n6x
 #EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN
 
 #EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/6bbe53d4-5d66-44c0-846d-a5635c67a13c?height=auto&width=288&croppingPoint=&version=1&type=avif" group-title="MBC ROTANA",mbc 1 HD
@@ -312,6 +315,18 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081901&exten
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081900&extension=ts&play_token=1i8zyaZGhx
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/D4E0BAQF_vICOu_AWfQ/company-logo_200_200/B4EZ4XVn6OHYAM-/0/1778508005976?e=2147483647&v=beta&t=JZknp3VqyUkfIwMTCTuPAmpyu2CI2kB8ZHZAephMyoM" group-title="beIN TOD",beIN TOD EXTRA 3
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081899&extension=ts&play_token=EMUEJkFEcc
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/D4E0BAQF_vICOu_AWfQ/company-logo_200_200/B4EZ4XVn6OHYAM-/0/1778508005976?e=2147483647&v=beta&t=JZknp3VqyUkfIwMTCTuPAmpyu2CI2kB8ZHZAephMyoM" group-title="beIN TOD",beIN TOD EXTRA 4
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081898&extension=ts&play_token=uLTxrffR94
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/D4E0BAQF_vICOu_AWfQ/company-logo_200_200/B4EZ4XVn6OHYAM-/0/1778508005976?e=2147483647&v=beta&t=JZknp3VqyUkfIwMTCTuPAmpyu2CI2kB8ZHZAephMyoM" group-title="beIN TOD",beIN TOD EXTRA 5
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081898&extension=ts&play_token=uLTxrffR94
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/D4E0BAQF_vICOu_AWfQ/company-logo_200_200/B4EZ4XVn6OHYAM-/0/1778508005976?e=2147483647&v=beta&t=JZknp3VqyUkfIwMTCTuPAmpyu2CI2kB8ZHZAephMyoM" group-title="beIN TOD",beIN TOD EXTRA 6
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081896&extension=ts&play_token=GmLPLESE3I
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/D4E0BAQF_vICOu_AWfQ/company-logo_200_200/B4EZ4XVn6OHYAM-/0/1778508005976?e=2147483647&v=beta&t=JZknp3VqyUkfIwMTCTuPAmpyu2CI2kB8ZHZAephMyoM" group-title="beIN TOD",beIN TOD EXTRA 7
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081895&extension=ts&play_token=xa974C6JeJ
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/D4E0BAQF_vICOu_AWfQ/company-logo_200_200/B4EZ4XVn6OHYAM-/0/1778508005976?e=2147483647&v=beta&t=JZknp3VqyUkfIwMTCTuPAmpyu2CI2kB8ZHZAephMyoM" group-title="beIN TOD",beIN TOD EXTRA 8
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081894&extension=ts&play_token=XtTPdXbqD1
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/D4E0BAQF_vICOu_AWfQ/company-logo_200_200/B4EZ4XVn6OHYAM-/0/1778508005976?e=2147483647&v=beta&t=JZknp3VqyUkfIwMTCTuPAmpyu2CI2kB8ZHZAephMyoM" group-title="beIN TOD",beIN TOD EXTRA 9
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081893&extension=ts&play_token=QnpLm39nJP
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRH0B9jfyeRlpi0tvqZ1j7Kv1NorOsnDzH-A&s" group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY INFO HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085222&extension=ts&play_token=llZ7h8w1pK
@@ -345,6 +360,30 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085209&exten
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085208&extension=ts&play_token=CX7pSehQqy
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRH0B9jfyeRlpi0tvqZ1j7Kv1NorOsnDzH-A&s" group-title="bWORLD CUP 2026 REPLAY",bWORLD CUP 2026 REPLAY 15 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085207&extension=ts&play_token=aNAEHlp9Fj
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsmNTFcY/Screenshot-2026-06-05-155320.png" group-title="bWORLD CUP 2026 REPLAY",DAZN LALIGA CUP 2026
+https://i.postimg.cc/0NkxPLM2/image.jpg
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsmNTFcY/Screenshot-2026-06-05-155320.png" group-title="bWORLD CUP 2026 REPLAY",DAZN LALIGA 1 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=986639&extension=ts&play_token=83pUOTINST
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsmNTFcY/Screenshot-2026-06-05-155320.png" group-title="bWORLD CUP 2026 REPLAY",DAZN LALIGA 2 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1547249&extension=ts&play_token=0IdzhsVOmz
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsmNTFcY/Screenshot-2026-06-05-155320.png" group-title="bWORLD CUP 2026 REPLAY",DAZN LALIGA 3 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2074438&extension=ts&play_token=2uZTbVAL1V
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsmNTFcY/Screenshot-2026-06-05-155320.png" group-title="bWORLD CUP 2026 REPLAY",DAZN LALIGA 4 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2074437&extension=ts&play_token=mFWz022EE7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsmNTFcY/Screenshot-2026-06-05-155320.png" group-title="bWORLD CUP 2026 REPLAY",DAZN LALIGA 1 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=986641&extension=ts&play_token=8gzEKQVLbj
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsmNTFcY/Screenshot-2026-06-05-155320.png" group-title="bWORLD CUP 2026 REPLAY",DAZN LALIGA 2 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1347433&extension=ts&play_token=3Wg096G7oa
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsmNTFcY/Screenshot-2026-06-05-155320.png" group-title="bWORLD CUP 2026 REPLAY",DAZN LALIGA 3 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2074435&extension=ts&play_token=X0dLhTmviU
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsmNTFcY/Screenshot-2026-06-05-155320.png" group-title="bWORLD CUP 2026 REPLAY",DAZN LALIGA 4 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2074434&extension=ts&play_token=W6iH258hZL
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV1.png.webp?itok=BFDLIIuY",programme nation HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6724&extension=ts&play_token=sqjrh4DzkF
@@ -369,7 +408,7 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6715&extensio
 #EXTINF:-1 group-title="ALGERIA Channels",ECHOUROUK NEWS
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6716&extension=ts&play_token=NZGMotUKPl
 #EXTINF:-1 group-title="ALGERIA Channels",ENNAHAR TV
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6716&extension=ts&play_token=NZGMotUKPl
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6717&extension=ts&play_token=GPhXBnxGln
 #EXTINF:-1 group-title="ALGERIA Channels",EL HAYAT TV
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=84254&extension=ts&play_token=5Ld1nG7QIc
 #EXTINF:-1 group-title="ALGERIA Channels",EL WATANIA TV
@@ -385,7 +424,7 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6710&extensio
 #EXTINF:-1 group-title="ALGERIA Channels",ZAHRA TV
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=828228&extension=ts&play_token=oi1WpYseH1
 #EXTINF:-1 group-title="ALGERIA Channels",ALMAGHARIBIA TV
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=518616&extension=ts&play_token=icNV7QAGAG
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=509328&extension=ts&play_token=wErFSwNmxp
 
 
 
