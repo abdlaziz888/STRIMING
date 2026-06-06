@@ -121,7 +121,7 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081906&exten
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081905&extension=ts&play_token=KMnG7SpZMy
 #EXTINF:-1 tvg-logo="https://media0101.elcinema.com/vod_platforms/58268957_4.png" group-title="TOD VIP",TOD by beIN 9
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081904&extension=ts&play_token=RSmhcbqi5q
-#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/D4E0BAQF_vICOu_AWfQ/company-logo_200_200/B4EZ4XVn6OHYAM-/0/1778508005976?e=2147483647&v=beta&t=JZknp3VqyUkfIwMTCTuPAmpyu2CI2kB8ZHZAephMyoM" group-title="TOD VIP"AL SHARQIYA + TOD TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/9/97/Alsharqiyahd_logo.png" group-title="TOD VIP"AL SHARQIYA TOD TV 
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=7804&extension=ts&play_token=K8NqnjVakx
 #EXTINF:-1 tvg-logo="https://media0101.elcinema.com/vod_platforms/58268957_4.png" group-title="TOD VIP",TOD by beIN EXTRA 1
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081901&extension=ts&play_token=303dEwWcV2
@@ -184,35 +184,35 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141564&exten
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141563&extension=ts&play_token=7FzPRxfqbU
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2020/06/BBCEarth-new_200x200.png" group-title="beIN ENTERTAINMANT",biIN BBC EARTH FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141567&extension=ts&play_token=GsYAAABaGt
-#EXTINF:-1 tvg-logo="   " group-title="beIN ENTERTAINMANT",beIN OD MOVIES 1 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLpYbdCJ/Screenshot-2026-06-05-222420-preview-rev-1.png" group-title="beIN ENTERTAINMANT",beIN OD MOVIES 1 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1010765&extension=ts&play_token=O79Bdsm12H
-#EXTINF:-1 tvg-logo="   " group-title="beIN ENTERTAINMANT",beIN OD MOVIES 2 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLpYbdCJ/Screenshot-2026-06-05-222420-preview-rev-1.png" group-title="beIN ENTERTAINMANT",beIN OD MOVIES 2 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1010764&extension=ts&play_token=gmI7XwxObd
-#EXTINF:-1 tvg-logo="   " group-title="beIN ENTERTAINMANT",beIN OD MOVIES 3 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLpYbdCJ/Screenshot-2026-06-05-222420-preview-rev-1.png" group-title="beIN ENTERTAINMANT",beIN OD MOVIES 3 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1010763&extension=ts&play_token=dU1vvJOiP8
-#EXTINF:-1 tvg-logo="   " group-title="beIN ENTERTAINMANT",beIN OD MOVIES 4 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLpYbdCJ/Screenshot-2026-06-05-222420-preview-rev-1.png" group-title="beIN ENTERTAINMANT",beIN OD MOVIES 4 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1010762&extension=ts&play_token=xiwVbsbcm1
-#EXTINF:-1 tvg-logo="   " group-title="beIN ENTERTAINMANT",beIN OD MOVIES 5 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLpYbdCJ/Screenshot-2026-06-05-222420-preview-rev-1.png" group-title="beIN ENTERTAINMANT",beIN OD MOVIES 5 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=671288&extension=ts&play_token=qK0dPMQluu
-#EXTINF:-1 tvg-logo="   " group-title="beIN ENTERTAINMANT",beIN OD MOVIES 6 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLpYbdCJ/Screenshot-2026-06-05-222420-preview-rev-1.png" group-title="beIN ENTERTAINMANT",beIN OD MOVIES 6 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=671287&extension=ts&play_token=kXhI7csoUs
-#EXTINF:-1 tvg-logo="   " group-title="beIN ENTERTAINMANT",beIN OD MOVIES 7 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLpYbdCJ/Screenshot-2026-06-05-222420-preview-rev-1.png" group-title="beIN ENTERTAINMANT",beIN OD MOVIES 7 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=671286&extension=ts&play_token=m6ktICjeWd
-#EXTINF:-1 tvg-logo="   " group-title="beIN ENTERTAINMANT",beIN OD MOVIES 8 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLpYbdCJ/Screenshot-2026-06-05-222420-preview-rev-1.png" group-title="beIN ENTERTAINMANT",beIN OD MOVIES 8 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=671285&extension=ts&play_token=n2qTajU2sO
-#EXTINF:-1 tvg-logo="   " group-title="beIN ENTERTAINMANT",beIN OD MOVIES 9 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLpYbdCJ/Screenshot-2026-06-05-222420-preview-rev-1.png" group-title="beIN ENTERTAINMANT",beIN OD MOVIES 9 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=671292&extension=ts&play_token=HXhfYwH0Li
-#EXTINF:-1 tvg-logo="   " group-title="beIN ENTERTAINMANT",beIN OD MOVIES 10 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLpYbdCJ/Screenshot-2026-06-05-222420-preview-rev-1.png" group-title="beIN ENTERTAINMANT",beIN OD MOVIES 10 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=671291&extension=ts&play_token=dsJsegu8Qc
-#EXTINF:-1 tvg-logo="   " group-title="beIN ENTERTAINMANT",beIN OD MOVIES 11 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLpYbdCJ/Screenshot-2026-06-05-222420-preview-rev-1.png" group-title="beIN ENTERTAINMANT",beIN OD MOVIES 11 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=671290&extension=ts&play_token=0PcnC3A76z
-#EXTINF:-1 tvg-logo="   " group-title="beIN ENTERTAINMANT",beIN OD MOVIES 12 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLpYbdCJ/Screenshot-2026-06-05-222420-preview-rev-1.png" group-title="beIN ENTERTAINMANT",beIN OD MOVIES 12 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=671289&extension=ts&play_token=50n6NnlsjG
-#EXTINF:-1 tvg-logo="   " group-title="beIN ENTERTAINMANT",beIN OD KIDS 1 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8VXbSw1/Screenshot-2026-06-05-222420-preview-rev-11.png" group-title="beIN ENTERTAINMANT",beIN OD KIDS 1 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=671284&extension=ts&play_token=CYdDWhkByL
-#EXTINF:-1 tvg-logo="   " group-title="beIN ENTERTAINMANT",beIN OD KIDS 1 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8VXbSw1/Screenshot-2026-06-05-222420-preview-rev-11.png" group-title="beIN ENTERTAINMANT",beIN OD KIDS 1 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=671283&extension=ts&play_token=YWGTY883zo
-#EXTINF:-1 tvg-logo="   " group-title="beIN ENTERTAINMANT",beIN OD KIDS 1 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8VXbSw1/Screenshot-2026-06-05-222420-preview-rev-11.png" group-title="beIN ENTERTAINMANT",beIN OD KIDS 1 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=671282&extension=ts&play_token=dJ7ruDoYpz
 
 #EXTINF:-1 tvg-logo="https://media0101.elcinema.com/tvguide/1127_2.png" group-title="MBC ROTANA",mbc 1 HD
@@ -231,15 +231,15 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079495&exten
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079490&extension=ts&play_token=E7KEB5zVDo
 #EXTINF:-1 tvg-logo="https://media0101.elcinema.com/tvguide/1259_2.png" group-title="MBC ROTANA",mbc bollywood HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079494&extension=ts&play_token=LUKG1oFkMI
-#EXTINF:-1 tvg-logo="     " group-title="MBC ROTANA",zee aflam
+#EXTINF:-1 tvg-logo="https://media0101.elcinema.com/tvguide/1262_1.png" group-title="MBC ROTANA",zee aflam
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6593&extension=ts&play_token=tT6OdKHMbb
 #EXTINF:-1 tvg-logo="https://media0101.elcinema.com/tvguide/1261_2.png" group-title="MBC ROTANA",zee alwan
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6678&extension=ts&play_token=0tIOut379a
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/7ccc7980-2151-441f-b862-494961bcf2d9?height=auto&width=288&croppingPoint=&version=1&type=avif" group-title="MBC ROTANA",mbc drama HD
+#EXTINF:-1 tvg-logo="https://media0101.elcinema.com/tvguide/1194_1.png",mbc drama HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2079493&extension=ts&play_token=Y26V6UaxmB
 #EXTINF:-1 tvg-logo="https://media0101.elcinema.com/tvguide/1131_2.png" group-title="MBC ROTANA",mbc drama+ HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2079488&extension=ts&play_token=BykDyOoJWP
-#EXTINF:-1 tvg-logo="https://mbc-lite-strapi-s3-backup.s3.us-east-1.amazonaws.com/svg_mbc_variety_aaa60f39e8.svg" group-title="MBC ROTANA",mbc variety plus HD
+#EXTINF:-1 tvg-logo="      " group-title="MBC ROTANA",mbc variety plus HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=529523&extension=ts&play_token=8BOIl2wJsM
 #EXTINF:-1 tvg-logo="     " group-title="MBC ROTANA",mbc zoom HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765957&extension=ts&play_token=o1kk1ITVPy
@@ -433,42 +433,42 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=518614&extens
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=518612&extension=ts&play_token=czrvPslQX0
 #EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV9.png.webp?itok=OYK_Upop",ALGERIA
 
-#EXTINF:-1 group-title="ALGERIA Channels",ECHOUROUK TV HD
+#EXTINF:-1 tvg-logo="     " group-title="ALGERIA Channels",ECHOUROUK TV HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6715&extension=ts&play_token=xKzucY91iQ
-#EXTINF:-1 group-title="ALGERIA Channels",ECHOUROUK NEWS
+#EXTINF:-1 tvg-logo="     " group-title="ALGERIA Channels",ECHOUROUK NEWS
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6716&extension=ts&play_token=NZGMotUKPl
-#EXTINF:-1 group-title="ALGERIA Channels",ENNAHAR TV
+#EXTINF:-1 tvg-logo="     " group-title="ALGERIA Channels",ENNAHAR TV
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6717&extension=ts&play_token=GPhXBnxGln
-#EXTINF:-1 group-title="ALGERIA Channels",EL HAYAT TV
+#EXTINF:-1 tvg-logo="     " group-title="ALGERIA Channels",EL HAYAT TV
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=84254&extension=ts&play_token=5Ld1nG7QIc
-#EXTINF:-1 group-title="ALGERIA Channels",EL WATANIA TV
+#EXTINF:-1 tvg-logo="     " group-title="ALGERIA Channels",EL WATANIA TV
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=518616&extension=ts&play_token=icNV7QAGAG
-#EXTINF:-1 group-title="ALGERIA Channels",EL BILAD TV
+#EXTINF:-1 tvg-logo="     " group-title="ALGERIA Channels",EL BILAD TV
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=21717&extension=ts&play_token=lnfTO94ZQO
-#EXTINF:-1 group-title="ALGERIA Channels",EL HEDDAF TV
+#EXTINF:-1 tvg-logo="     " group-title="ALGERIA Channels",EL HEDDAF TV
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6700&extension=ts&play_token=Ma6kpLphwh
-#EXTINF:-1 group-title="ALGERIA Channels",ONE TV
+#EXTINF:-1 tvg-logo="     " group-title="ALGERIA Channels",ONE TV
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1472001&extension=ts&play_token=mZ01aa4jEn
-#EXTINF:-1 group-title="ALGERIA Channels",SAMIRA TV
+#EXTINF:-1 tvg-logo="     " group-title="ALGERIA Channels",SAMIRA TV
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6710&extension=ts&play_token=Yl0pR7FMzi
-#EXTINF:-1 group-title="ALGERIA Channels",ZAHRA TV
+#EXTINF:-1 tvg-logo="     " group-title="ALGERIA Channels",ZAHRA TV
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=828228&extension=ts&play_token=oi1WpYseH1
-#EXTINF:-1 group-title="ALGERIA Channels",ALMAGHARIBIA TV
+#EXTINF:-1 tvg-logo="     " group-title="ALGERIA Channels",ALMAGHARIBIA TV
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=509328&extension=ts&play_token=wErFSwNmxp
 
 
 
-#EXTINF:-1 group-title="---------",xxxxx
+#EXTINF:-1 tvg-logo="     " group-title="---------",xxxxx
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
-#EXTINF:-1 group-title="---------",xxxxx
+#EXTINF:-1 tvg-logo="     " group-title="---------",xxxxx
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/alaraby1publish/alaraby1_source/chunks.m3u8
-#EXTINF:-1 group-title="---------",xxxxx
+#EXTINF:-1 tvg-logo="     " group-title="---------",xxxxx
 https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8?orig=arabic
-#EXTINF:-1 group-title="---------",xxxxx
+#EXTINF:-1 tvg-logo="     " group-title="---------",xxxxx
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 group-title="---------",xxxxx
+#EXTINF:-1 tvg-logo="     " group-title="---------",xxxxx
 https://live-hls-web-aja-gcp.thehlive.com/AJA/index.m3u8
-#EXTINF:-1 group-title="---------",xxxxx
+#EXTINF:-1 tvg-logo="     " group-title="---------",xxxxx
 https://live-hls-web-ajd-gcp.thehlive.com/AJD/index.m3u8
-#EXTINF:-1 group-title="---------",xxxxx
+#EXTINF:-1 tvg-logo="     " group-title="---------",xxxxx
 https://live-hls-web-ajm-gcp.thehlive.com/AJM/index.m3u8
