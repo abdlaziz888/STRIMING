@@ -121,7 +121,7 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081906&exten
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081905&extension=ts&play_token=KMnG7SpZMy
 #EXTINF:-1 tvg-logo="https://media0101.elcinema.com/vod_platforms/58268957_4.png" group-title="TOD VIP",TOD by beIN 9
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081904&extension=ts&play_token=RSmhcbqi5q
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/9/97/Alsharqiyahd_logo.png" group-title="TOD VIP"AL SHARQIYA TOD TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/9/97/Alsharqiyahd_logo.png" group-title="TOD VIP",AL SHARQIYA + TOD TV 
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=7804&extension=ts&play_token=K8NqnjVakx
 #EXTINF:-1 tvg-logo="https://media0101.elcinema.com/vod_platforms/58268957_4.png" group-title="TOD VIP",TOD by beIN EXTRA 1
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081901&extension=ts&play_token=303dEwWcV2
@@ -225,7 +225,7 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079497&exten
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079496&extension=ts&play_token=mmaxEYgSCo
 #EXTINF:-1 tvg-logo="https://media0101.elcinema.com/tvguide/1354_2.png" group-title="MBC ROTANA",mbc 5
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=90929&extension=ts&play_token=gHO67Uqkit
-#EXTINF:-1 tvg-logo="https://media0101.elcinema.com/tvguide/1130_2.png",mbc action HD
+#EXTINF:-1 tvg-logo="https://media0101.elcinema.com/tvguide/1130_2.png" group-title="MBC ROTANA",mbc action HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079495&extension=ts&play_token=X4ZFjhGW1m
 #EXTINF:-1 tvg-logo="https://media0101.elcinema.com/tvguide/1132_2.png" group-title="MBC ROTANA",mbc max
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079490&extension=ts&play_token=E7KEB5zVDo
@@ -235,7 +235,7 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079494&exten
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6593&extension=ts&play_token=tT6OdKHMbb
 #EXTINF:-1 tvg-logo="https://media0101.elcinema.com/tvguide/1261_2.png" group-title="MBC ROTANA",zee alwan
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6678&extension=ts&play_token=0tIOut379a
-#EXTINF:-1 tvg-logo="https://media0101.elcinema.com/tvguide/1194_1.png",mbc drama HD
+#EXTINF:-1 tvg-logo="https://media0101.elcinema.com/tvguide/1194_1.png" group-title="MBC ROTANA",mbc drama HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2079493&extension=ts&play_token=Y26V6UaxmB
 #EXTINF:-1 tvg-logo="https://media0101.elcinema.com/tvguide/1131_2.png" group-title="MBC ROTANA",mbc drama+ HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2079488&extension=ts&play_token=BykDyOoJWP
