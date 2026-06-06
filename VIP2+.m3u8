@@ -121,7 +121,7 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081906&exten
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081905&extension=ts&play_token=KMnG7SpZMy
 #EXTINF:-1 tvg-logo="https://media0101.elcinema.com/vod_platforms/58268957_4.png" group-title="TOD VIP",TOD by beIN 9
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081904&extension=ts&play_token=RSmhcbqi5q
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/9/97/Alsharqiyahd_logo.png" group-title="TOD VIP"AL SHARQIYA TOD TV 
+#EXTINF:-1 tvg-logo="https://www.alsharqiya.com/Content/web-assets/img/logo.png" group-title="TOD VIP",AL SHARQIYA + TOD TV 
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=7804&extension=ts&play_token=K8NqnjVakx
 #EXTINF:-1 tvg-logo="https://media0101.elcinema.com/vod_platforms/58268957_4.png" group-title="TOD VIP",TOD by beIN EXTRA 1
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081901&extension=ts&play_token=303dEwWcV2
@@ -281,7 +281,6 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765953&exten
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1543652&extension=ts&play_token=yyITZh7OZh
 #EXTINF:-1 tvg-logo="     " group-title="MBC ROTANA",mbc toons + HD
 
-
 #EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/36/f0/fullhd_7b5a1c62d4c0785dff72d85e41ade22b9478258b.png" group-title="ARABE SPORTS",KSA SPORTS 1 FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079507&extension=ts&play_token=zioeF83Rhz
 #EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/57/09/fullhd_470ef56d4e496e82df1d74aca7edeef597b2e541.png" group-title="ARABE SPORTS",KSA SPORTS 2 FHD
@@ -313,12 +312,6 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1936355&exten
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1936354&extension=ts&play_token=9cRG6YpHUh
 #EXTINF:-1 tvg-logo="         " group-title="ARABE SPORTS",
 #EXTINF:-1 tvg-logo="         " group-title="ARABE SPORTS",
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 FHD FM
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077615&extension=ts&play_token=m0iNidH3dN
@@ -422,12 +415,7 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1347433&exten
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2074435&extension=ts&play_token=X0dLhTmviU
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsmNTFcY/Screenshot-2026-06-05-155320.png" group-title="FIFA™ World Cup 26",DAZN LALIGA 4 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2074434&extension=ts&play_token=W6iH258hZL
-
 #EXTINF:-1 tvg-logo="" group-title="bWORLD CUP 2026 REPLAY",
-
-
-
-
 
 #EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV1.png.webp?itok=BFDLIIuY",programme nation HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6724&extension=ts&play_token=sqjrh4DzkF
@@ -446,7 +434,6 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=518614&extens
 #EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV8.png.webp?itok=vbb5FGFu",TV 8 EDHAKIRA HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=518612&extension=ts&play_token=czrvPslQX0
 #EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV9.png.webp?itok=OYK_Upop",ALGERIA
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1RWYhRK/ECHROK.png" group-title="ALGERIA Channels",ECHOUROUK TV HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6715&extension=ts&play_token=xKzucY91iQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ECHOUROUK-NEWS.png/250px-ECHOUROUK-NEWS.png" group-title="ALGERIA Channels",ECHOUROUK NEWS
@@ -469,8 +456,6 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6710&extensio
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=828228&extension=ts&play_token=oi1WpYseH1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Almagharibia_tv_channel.png/250px-Almagharibia_tv_channel.png" group-title="ALGERIA Channels",ALMAGHARIBIA TV
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=509328&extension=ts&play_token=wErFSwNmxp
-
-
 
 #EXTINF:-1 tvg-logo="     " group-title="---------",xxxxx
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
