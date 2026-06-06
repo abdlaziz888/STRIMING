@@ -267,12 +267,12 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=718442&extens
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=643946&extension=ts&play_token=wjchwiYq08
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7zvyJhB/POWRE.png" group-title="MBC ROTANA",mbc power sport + HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=661640&extension=ts&play_token=PlP65nIsmh
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zpYW6NK/TOON-1.png" group-title="MBC ROTANA",mbc toons 1 HD
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1543650&extension=ts&play_token=PMpSkKALSV
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5sC6bQC/TOON-2.png" group-title="MBC ROTANA",mbc toons 2 HD
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1543651&extension=ts&play_token=KzUj4rPPTJ
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q4mDXy5/TOON.png" group-title="MBC ROTANA",mbc toon HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765949&extension=ts&play_token=EVBfleSZz2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zpYW6NK/TOON-1.png" group-title="MBC ROTANA",mbc toon 1 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1543650&extension=ts&play_token=PMpSkKALSV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5sC6bQC/TOON-2.png" group-title="MBC ROTANA",mbc toon 2 HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1543651&extension=ts&play_token=KzUj4rPPTJ
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9MX5Z1Nk/documentary.png" group-title="MBC ROTANA",mbc documentary HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1543653&extension=ts&play_token=SnxvIGisBw
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzcZRXVm/G.png" group-title="MBC ROTANA",mbc geographic HD
@@ -447,7 +447,7 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=518614&extens
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=518612&extension=ts&play_token=czrvPslQX0
 #EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV9.png.webp?itok=OYK_Upop",ALGERIA
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/2025_Echorouk_TV_logo.jpg/250px-2025_Echorouk_TV_logo.jpg" group-title="ALGERIA Channels",ECHOUROUK TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1RWYhRK/ECHROK.png" group-title="ALGERIA Channels",ECHOUROUK TV HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6715&extension=ts&play_token=xKzucY91iQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ECHOUROUK-NEWS.png/250px-ECHOUROUK-NEWS.png" group-title="ALGERIA Channels",ECHOUROUK NEWS
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6716&extension=ts&play_token=NZGMotUKPl
@@ -455,7 +455,7 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6716&extensio
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6717&extension=ts&play_token=GPhXBnxGln
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/El_Hayat_TV.png" group-title="ALGERIA Channels",EL HAYAT TV
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=84254&extension=ts&play_token=5Ld1nG7QIc
-#EXTINF:-1 tvg-logo="https://cdn.elwataniatv.dz/wp-content/uploads/2026/01/al-watania.png" group-title="ALGERIA Channels",EL WATANIA TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvBcxyp4/al-watania.png" group-title="ALGERIA Channels",EL WATANIA TV
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=518616&extension=ts&play_token=icNV7QAGAG
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/El_Bilad_TV.png/250px-El_Bilad_TV.png" group-title="ALGERIA Channels",EL BILAD TV
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=21717&extension=ts&play_token=lnfTO94ZQO
