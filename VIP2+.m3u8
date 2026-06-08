@@ -4,21 +4,21 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=7587&extensio
 #EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="ISLAMIC",Saudia Sonnah HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6627&extension=ts&play_token=6ijthi8tH9
 
-#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV1.png.webp?itok=BFDLIIuY",programme nation HD
+#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://i.postimg.cc/g0GxQ2VX/Logo-de-TV1-Algerie-(2020)-svg.png",programme nation HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6724&extension=ts&play_token=sqjrh4DzkF
-#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV2.png.webp?itok=9e7qO3Uc",Canal algerie HD
+#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://i.postimg.cc/NMG6w4cw/Canal-Algerie.png",Canal algerie HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6723&extension=ts&play_token=ZLqRX3BxcB
-#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV3.png.webp?itok=AH9qQ32X",A3 HD
+#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://i.postimg.cc/Fzxrjjqs/entv.png",A3 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6722&extension=ts&play_token=HtgTGymuRs
-#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV4.png.webp?itok=DwNIsPKH",TV 4 
+#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://i.postimg.cc/NfMqJq2y/Logo-de-TV4-Algerie-version-arabe-(2020)-svg.png",TV 4 
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=83669&extension=ts&play_token=P3xoorAS2y
-#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV5.png.webp?itok=pFFb7BW4",TV 5 
+#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://i.postimg.cc/FKKTmNmC/Logo-de-TV5-Algerie-(2020)-svg.png",TV 5 
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=8167&extension=ts&play_token=qLK3VZHUKQ
-#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-chababiya6.png.webp?itok=CtaUUAMW",TV 6 HD
+#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://i.postimg.cc/mk3YC5BZ/Logo-de-TV6-Algerie-(2020)-svg.png",TV 6 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=196191&extension=ts&play_token=ZxLhTpFrCQ
-#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV7.png.webp?itok=tA0GQkJI",TV 7 ELMAARIFA HD
+#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://i.postimg.cc/mDshC2D6/TV7-svg.png",TV 7 ELMAARIFA HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=518614&extension=ts&play_token=MOxOG2wuhQ
-#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV8.png.webp?itok=vbb5FGFu",TV 8 EDHAKIRA HD
+#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://i.postimg.cc/853jnBPN/TV8.png",TV 8 EDHAKIRA HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=518612&extension=ts&play_token=czrvPslQX0
 #EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV9.png.webp?itok=OYK_Upop",ALGERIA
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1RWYhRK/ECHROK.png" group-title="ALGERIA Channels",ECHOUROUK TV HD
@@ -323,7 +323,7 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836267&exten
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836266&extension=ts&play_token=k3NPYsPZZp
 #EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",biIN SPORTS 4 FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836265&extension=ts&play_token=hndpjYuOJh
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",biIN SPORTS 5 FHD+
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",biIN SPORTS 5 FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836264&extension=ts&play_token=zxjeAMzVsh
 #EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono-d-1.png",biIN SPORTS 6 FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411378&extension=ts&play_token=MwgPQndLmk
