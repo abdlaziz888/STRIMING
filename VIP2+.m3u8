@@ -67,29 +67,29 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6623&extensio
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RXLLknc/m.png" group-title="TUNISIA Channels",AL MUSTAKILA TV
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=848427&extension=ts&play_token=DuO1m55a0s
 
-#EXTINF:-1 tvg-logo="https://media0101.elcinema.com/tvguide/1127_2.png" group-title="MBC ROTANA",mbc 1 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6Gwn4Xc/Mbc1logo-(2).png" group-title="MBC ROTANA",mbc 1 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079499&extension=ts&play_token=lrFTvFFdEN
-#EXTINF:-1 tvg-logo="https://media0101.elcinema.com/tvguide/1128_2.png" group-title="MBC ROTANA",mbc 2 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kv9Rt5Sq/MBC2-Logo-svg.png" group-title="MBC ROTANA",mbc 2 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079498&extension=ts&play_token=f8ZkxMoQse
-#EXTINF:-1 tvg-logo="https://media0101.elcinema.com/tvguide/1241_2.png" group-title="MBC ROTANA",mbc 3 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Z5GddT/MBC-3-Logo-svg.png" group-title="MBC ROTANA",mbc 3 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079497&extension=ts&play_token=5CQI5zKNQE
-#EXTINF:-1 tvg-logo="https://media0101.elcinema.com/tvguide/1129_2.png" group-title="MBC ROTANA",mbc 4 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2ybhZBq0/MBC-4-Logo-svg.png" group-title="MBC ROTANA",mbc 4 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079496&extension=ts&play_token=mmaxEYgSCo
-#EXTINF:-1 tvg-logo="https://media0101.elcinema.com/tvguide/1354_2.png" group-title="MBC ROTANA",mbc 5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1wQHwKL/MBC-5-Logo-svg.png" group-title="MBC ROTANA",mbc 5
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=90929&extension=ts&play_token=gHO67Uqkit
-#EXTINF:-1 tvg-logo="https://media0101.elcinema.com/tvguide/1130_2.png" group-title="MBC ROTANA",mbc action HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTGzTRHY/MBC-Action-Logo-svg.png" group-title="MBC ROTANA",mbc action HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079495&extension=ts&play_token=X4ZFjhGW1m
-#EXTINF:-1 tvg-logo="https://media0101.elcinema.com/tvguide/1132_2.png" group-title="MBC ROTANA",mbc max
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zQM7Hh0/MBC-Max-logo.png" group-title="MBC ROTANA",mbc max
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079490&extension=ts&play_token=E7KEB5zVDo
-#EXTINF:-1 tvg-logo="https://media0101.elcinema.com/tvguide/1259_2.png" group-title="MBC ROTANA",mbc bollywood HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDw1r4T1/MBC-Bollywood-Logo-svg.png" group-title="MBC ROTANA",mbc bollywood HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079494&extension=ts&play_token=LUKG1oFkMI
-#EXTINF:-1 tvg-logo="https://media0101.elcinema.com/tvguide/1262_1.png" group-title="MBC ROTANA",zee aflam
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1QZQLFx/images-K.png" group-title="MBC ROTANA",zee aflam
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6593&extension=ts&play_token=tT6OdKHMbb
-#EXTINF:-1 tvg-logo="https://media0101.elcinema.com/tvguide/1261_2.png" group-title="MBC ROTANA",zee alwan
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBGF1N0d/Zee-Alwan-2025.png" group-title="MBC ROTANA",zee alwan
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6678&extension=ts&play_token=0tIOut379a
-#EXTINF:-1 tvg-logo="https://media0101.elcinema.com/tvguide/1194_1.png" group-title="MBC ROTANA",mbc drama HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZpRNfZT/MBC-Drama-Logo-svg.png" group-title="MBC ROTANA",mbc drama HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2079493&extension=ts&play_token=Y26V6UaxmB
-#EXTINF:-1 tvg-logo="https://media0101.elcinema.com/tvguide/1131_2.png" group-title="MBC ROTANA",mbc drama+ HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kz6p4TQP/MBC-Drama-Plus-TV-Channel-Logo.png" group-title="MBC ROTANA",mbc drama+ HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2079488&extension=ts&play_token=BykDyOoJWP
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJLTCLCy/mbc-variety.png" group-title="MBC ROTANA",mbc variety plus HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=529523&extension=ts&play_token=8BOIl2wJsM
@@ -234,6 +234,8 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1936356&exten
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1936355&extension=ts&play_token=bmdJ3Ih84d
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dV9wMmJ4/download-preview-rev-1HH.png" group-title="ARABE SPORTS",THAMANYA SPORTS 3 FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1936354&extension=ts&play_token=9cRG6YpHUh
+#EXTINF:-1 tvg-logo="" group-title="ARABE SPORTS",JORDAN SPORTS
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=591575&extension=ts&play_token=Wcd9pXbqrA
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 1 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859092&extension=ts&play_token=VB6L15tv7C
@@ -376,17 +378,17 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081893&exten
 
 
 #EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 FHD FM
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077615&extension=ts&play_token=m0iNidH3dN
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077621&extension=ts&play_token=GdtedSaUwd
 #EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 FHD FM
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077614&extension=ts&play_token=mwLrsO48oP
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077608&extension=ts&play_token=U5K6rdFlPD
 #EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 HD FM
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077609&extension=ts&play_token=98tl2fRAkh
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077609&extension=ts&play_token=Y8tKxn9Jy7
 #EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 HD FM
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077608&extension=ts&play_token=unvcurb7Ua
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077608&extension=ts&play_token=U5K6rdFlPD
 #EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 SD FM
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077603&extension=ts&play_token=TntaDs6g4S
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077603&extension=ts&play_token=5au1dYJ6R1
 #EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 SD FM
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077602&extension=ts&play_token=rC3o4PMzQN
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077602&extension=ts&play_token=l3EPBpxakY
 
 #EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 FHD G
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085728&extension=ts&play_token=Qaat3a2wkQ
